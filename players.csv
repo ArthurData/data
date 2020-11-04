@@ -1,0 +1,737 @@
+id,name,birth_date,position,team,number,played,club,captain
+325,jefferson,1983-01-02,,Bresil,1,9,Botafogo,0
+378,julio cesar,1979-09-03,Gardien,Bresil,12,80,Toronto FC,0
+699,victor,1983-01-21,Gardien,Bresil,22,6,Atletico Mineiro,0
+136,dani alves,1983-05-06,Defenseur,Bresil,2,75,Barcelona,0
+146,dante,1983-10-18,Defenseur,Bresil,13,12,Bayern Munich,0
+152,david luiz,1987-04-22,Defenseur,Bresil,4,36,Chelsea,0
+280,henrique,1986-10-14,Defenseur,Bresil,15,5,Napoli,0
+438,maicon,1981-07-26,Defenseur,Bresil,23,72,Roma,0
+445,marcelo,1988-05-12,Defenseur,Bresil,6,31,Real Madrid,0
+493,maxwell,1981-08-27,Defenseur,Bresil,14,9,Paris Saint-Germain,0
+675,thiago silva,1984-09-22,Defenseur,Bresil,3,46,Paris Saint-Germain,1
+86,bernard,1992-09-08,Milieu,Bresil,20,11,Shakhtar Donetsk,0
+223,fernandinho,1985-05-04,Milieu,Bresil,5,7,Manchester City,0
+281,hernanes,1985-05-29,Milieu,Bresil,18,24,Internazionale,0
+433,luiz gustavo,1987-07-23,Milieu,Bresil,17,19,VfL Wolfsburg,0
+548,oscar,1991-09-09,Milieu,Bresil,11,31,Chelsea,0
+567,paulinho,1988-07-25,Milieu,Bresil,8,26,Tottenham Hotspur,0
+585,ramires,1987-03-24,Milieu,Bresil,16,42,Chelsea,0
+717,willian,1988-08-09,Milieu,Bresil,19,7,Chelsea,0
+233,fred,1983-10-03,Attaquant,Bresil,9,33,Fluminense,0
+290,hulk,1986-07-25,Attaquant,Bresil,7,35,Zenit Saint Petersburg,0
+333,jô,1987-03-20,Attaquant,Bresil,21,17,Atletico Mineiro,0
+530,neymar,1992-02-05,Attaquant,Bresil,10,49,Barcelona,0
+113,charles itandje,1982-11-02,Gardien,Cameroun,16,9,Konyaspor,0
+422,loec feudjou,1992-04-14,Gardien,Cameroun,1,2,Coton Sport,0
+625,sammy n'djock,1990-02-25,Gardien,Cameroun,23,3,Fethiyespor,0
+38,allan nyom,1988-05-10,Defenseur,Cameroun,22,10,Granada,0
+72,aurelien chedjou,1985-06-20,Defenseur,Cameroun,14,31,Galatasaray,0
+85,benoît assou-ekotto,1984-03-24,Defenseur,Cameroun,2,22,Queens Park Rangers,0
+107,cedric djeugoue,1992-08-28,Defenseur,Cameroun,4,3,Coton Sport,0
+147,dany nounkeu,1986-04-11,Defenseur,Cameroun,5,16,Besiktas,0
+279,henri bedimo,1984-06-04,Defenseur,Cameroun,12,31,Lyon,0
+534,nicolas n'koulou,1990-03-27,Defenseur,Cameroun,3,48,Marseille,0
+29,alex song,1987-09-09,Milieu,Cameroun,6,47,Barcelona,0
+182,edgar salli,1992-08-17,Milieu,Cameroun,20,9,Lens,0
+209,eyong enoh,1986-03-23,Milieu,Cameroun,18,38,Antalyaspor,0
+323,jean makoun,1983-05-29,Milieu,Cameroun,11,66,Rennes,0
+339,joel matip,1991-08-08,,Cameroun,21,23,Schalke 4,0
+409,landry n'guemo,1985-11-28,Milieu,Cameroun,7,40,Bordeaux,0
+661,stephane mbia,1986-05-20,Milieu,Cameroun,17,49,Sevilla,0
+84,benjamin moukandjo,1988-11-12,Attaquant,Cameroun,8,17,Nancy,0
+216,fabrice olinga,1996-05-12,Attaquant,Cameroun,19,8,Zulte Waregem,0
+491,maxim choupo-moting,1989-03-23,Attaquant,Cameroun,13,26,Mainz 5,0
+578,pierre webo,1982-01-20,Attaquant,Cameroun,15,56,Fenerbahce,0
+626,samuel eto'o,1981-03-10,Attaquant,Cameroun,9,117,Chelsea,1
+705,vincent aboubakar,1992-01-22,Attaquant,Cameroun,10,24,Lorient,0
+144,danijel subasic,1984-10-27,Gardien,Croatie,23,6,Monaco,0
+543,oliver zelenika,1993-05-14,Gardien,Croatie,12,0,Lokomotiva,0
+668,stipe pletikosa,1979-01-08,Gardien,Croatie,1,111,Rostov,0
+143,danijel pranjic,1981-12-02,Defenseur,Croatie,3,50,Panathinaikos,0
+148,darijo srna,1982-05-01,Defenseur,Croatie,11,112,Shakhtar Donetsk,1
+157,dejan lovren,1989-07-05,Defenseur,Croatie,6,25,Southampton,0
+175,domagoj vida,1989-04-29,Defenseur,Croatie,21,23,Dynamo Kyiv,0
+263,gordon schildenfeld,1985-03-18,Defenseur,Croatie,13,21,Panathinaikos,0
+652,sime vrsaljko,1992-01-10,Defenseur,Croatie,2,7,Genoa,0
+698,vedran corluka,1986-02-05,Defenseur,Croatie,5,72,Lokomotiv Moscow,0
+300,milan badelj,1989-02-25,Milieu,Croatie,15,9,Hamburger SV,0
+301,ivan perisic,1989-02-02,Milieu,Croatie,4,29,VfL Wolfsburg,0
+302,ivan rakitic,1988-03-10,Milieu,Croatie,7,62,Sevilla,0
+434,luka modric,1985-09-09,Milieu,Croatie,10,75,Real Madrid,0
+446,marcelo brozovic,1992-10-16,Milieu,Croatie,14,1,Dinamo Zagreb,0
+472,mateo kovacic,1994-05-06,Milieu,Croatie,20,10,Internazionale,0
+540,ognjen vukojevic,1983-12-20,Milieu,Croatie,8,55,Dynamo Kyiv,0
+623,sammir,1987-04-23,Milieu,Croatie,19,6,Getafe,0
+56,ante rebic,1993-09-21,Attaquant,Croatie,16,5,Fiorentina,0
+187,eduardo,1983-02-25,Attaquant,Croatie,22,63,Shakhtar Donetsk,0
+303,ivica olic,1979-09-14,,Croatie,18,92,VfL Wolfsburg,0
+458,mario mandzukic,1986-05-21,Attaquant,Croatie,17,50,Bayern Munich,0
+536,nikica jelavic,1985-08-27,Attaquant,Croatie,9,33,Hull City,0
+35,alfredo talavera,1982-09-18,Gardien,Mexique,12,14,Toluca,0
+267,guillermo ochoa,1985-07-13,Gardien,Mexique,13,59,Ajaccio,0
+357,jose de jesus corona,1981-01-26,Gardien,Mexique,1,34,Cruz Azul,0
+50,andres guardado,1986-09-28,Defenseur,Mexique,18,104,Bayer Leverkusen,0
+104,carlos salcido,1980-04-02,Defenseur,Mexique,3,122,UANL,0
+169,diego reyes,1992-09-19,Defenseur,Mexique,5,14,Porto,0
+228,francisco javier rodriguez,1981-10-20,Defenseur,Mexique,2,95,America,0
+276,hector moreno,1988-01-17,Defenseur,Mexique,15,53,Espanyol,0
+512,miguel angel ponce,1989-04-12,Defenseur,Mexique,16,8,Toluca,0
+513,miguel layun,1988-06-25,Defenseur,Mexique,7,15,America,0
+564,paul aguilar,1986-03-06,,Mexique,22,30,America,0
+581,rafael marquez,1979-02-13,Defenseur,Mexique,4,120,Leon,1
+103,carlos pena,1990-03-29,Milieu,Mexique,21,16,Leon,0
+275,hector herrera,1990-04-19,Milieu,Mexique,6,13,Porto,0
+296,isaac brizuela,1990-08-28,Milieu,Mexique,17,7,Toluca,0
+319,javier aquino,1990-02-11,Milieu,Mexique,20,22,Villarreal,0
+359,jose juan vazquez,1988-03-14,Milieu,Mexique,23,5,Leon,0
+448,marco fabian,1989-07-21,Milieu,Mexique,8,15,Cruz Azul,0
+17,alan pulido,1991-03-08,Attaquant,Mexique,11,6,UANL,0
+256,giovani dos santos,1989-05-11,Attaquant,Mexique,10,76,Villarreal,0
+320,javier hernandez,1988-06-01,Attaquant,Mexique,14,62,Manchester United,0
+547,oribe peralta,1984-01-12,Attaquant,Mexique,19,33,Santos Laguna,0
+591,raul jimenez,1991-05-05,Attaquant,Mexique,9,25,America,0
+207,eugene galekovic,1981-06-12,Gardien,Australie,18,8,Adelaide United,0
+474,mathew ryan,1992-04-08,Gardien,Australie,1,7,Club Brugge,0
+520,mitchell langerak,1988-08-22,Gardien,Australie,12,3,Borussia Dortmund,0
+30,alex wilkinson,1984-08-13,Defenseur,Australie,22,3,Jeonbuk Hyundai Motors,0
+78,bailey wright,1992-07-28,Defenseur,Australie,8,0,Preston North End,0
+299,ivan franjic,1987-09-10,Defenseur,Australie,2,9,Brisbane Roar,0
+315,jason davidson,1991-06-29,Defenseur,Australie,3,7,Heracles Almelo,0
+482,matthew spiranovic,1988-06-27,Defenseur,Australie,6,18,Western Sydney Wanderers,0
+619,ryan mcgowan,1989-08-15,Defenseur,Australie,19,9,Shandong Luneng Taishan,0
+82,ben halloran,1992-06-14,Milieu,Australie,10,2,Fortuna Düsseldorf,0
+149,dario vidosic,1987-04-08,Milieu,Australie,20,23,Sion,0
+309,james holland,1989-05-15,Milieu,Australie,16,14,Autriche Wien,0
+312,james troisi,1988-07-03,Milieu,Australie,14,11,Atalanta,0
+461,mark bresciano,1980-02-11,Milieu,Australie,23,74,Al-Gharafa,0
+462,mark milligan,1985-08-04,Milieu,Australie,5,29,Melbourne Victory,0
+471,massimo luongo,1992-09-25,Milieu,Australie,21,1,Swindon Town,0
+480,matt mckay,1983-01-11,Milieu,Australie,17,47,Brisbane Roar,0
+517,mile jedinak,1984-08-03,Milieu,Australie,15,44,Crystal Palace,1
+542,oliver bozanic,1989-01-08,Milieu,Australie,13,3,Luzern,0
+685,tommy oar,1991-12-10,Milieu,Australie,11,15,Utrecht,0
+6,adam taggart,1993-06-02,Attaquant,Australie,9,5,Newcastle Jets,0
+473,mathew leckie,1991-02-04,Attaquant,Australie,7,8,FSV Frankfurt,0
+679,tim cahill,1979-12-06,Attaquant,Australie,4,69,New York Red Bulls,0
+124,claudio bravo,1983-04-13,Gardien,Chili,1,79,Real Sociedad,1
+133,cristopher toselli,1988-06-22,Gardien,Chili,12,4,Universidad Catolica,0
+346,johnny herrera,1981-05-09,Gardien,Chili,23,8,Universidad de Chili,0
+208,eugenio mena,1988-07-18,Defenseur,Chili,2,25,Santos,0
+239,gary medel,1987-08-03,Defenseur,Chili,17,61,Cardiff City,0
+262,gonzalo jara,1985-08-29,Defenseur,Chili,18,65,Nottingham Forest,0
+364,jose rojas,1983-06-03,Defenseur,Chili,13,19,Universidad de Chili,0
+515,miiko albornoz,1990-11-03,Defenseur,Chili,3,2,Malmö FF,0
+65,arturo vidal,1987-05-22,Milieu,Chili,8,54,Juventus,0
+101,carlos carmona,1987-02-21,Milieu,Chili,6,44,Atalanta,0
+112,charles aranguiz,1989-04-17,Milieu,Chili,20,21,Internacional,0
+213,fabian orellana,1986-01-27,Milieu,Chili,14,26,Celta Vigo,0
+222,felipe gutierrez,1990-10-08,Milieu,Chili,16,18,Twente,0
+229,francisco silva,1986-02-11,Milieu,Chili,5,12,Osasuna,0
+322,jean beausejour,1984-06-03,Milieu,Chili,15,59,Wigan Athletic,0
+356,jorge valdivia,1983-10-03,Milieu,Chili,10,57,Palmeiras,0
+363,jose pedro fuenzalida,1985-02-22,Milieu,Chili,19,23,Colo-Colo,0
+447,marcelo diaz,1986-12-30,Milieu,Chili,21,21,Basel,0
+486,mauricio isla,1988-06-12,Milieu,Chili,4,47,Juventus,0
+34,alexis sanchez,1988-12-19,Attaquant,Chili,7,67,Barcelona,0
+189,eduardo vargas,1989-11-20,Attaquant,Chili,11,30,Valencia,0
+206,esteban paredes,1980-08-01,Attaquant,Chili,22,35,Colo-Colo,0
+487,mauricio pinilla,1984-02-04,Attaquant,Chili,9,27,Cagliari,0
+151,david de gea,1990-11-07,Gardien,Espagne,12,1,Manchester United,0
+295,iker casillas,1981-05-20,Gardien,Espagne,1,154,Real Madrid,1
+571,pepe reina,1982-08-31,Gardien,Espagne,23,32,Napoli,0
+110,cesar azpilicueta,1989-08-28,Defenseur,Espagne,22,6,Chelsea,0
+245,gerard pique,1987-02-02,Defenseur,Espagne,3,60,Barcelona,0
+351,jordi alba,1989-03-21,Defenseur,Espagne,18,26,Barcelona,0
+375,juanfran,1985-01-09,Defenseur,Espagne,5,8,Atletico Madrid,0
+590,raul albiol,1985-09-04,Defenseur,Espagne,2,46,Napoli,0
+644,sergio ramos,1986-03-30,Defenseur,Espagne,15,117,Real Madrid,0
+51,andres iniesta,1984-05-11,Milieu,Espagne,6,97,Barcelona,0
+111,cesc fabregas,1987-05-04,Milieu,Espagne,10,89,Barcelona,0
+154,david silva,1986-01-08,Milieu,Espagne,21,80,Manchester City,0
+318,javi martinez,1988-09-02,Milieu,Espagne,4,17,Bayern Munich,0
+373,juan mata,1988-04-28,Milieu,Espagne,13,33,Manchester United,0
+399,koke,1992-01-08,Milieu,Espagne,17,8,Atletico Madrid,0
+628,santi cazorla,1984-12-13,Milieu,Espagne,20,64,Arsenal,0
+643,sergio busquets,1988-07-16,Milieu,Espagne,16,65,Barcelona,0
+719,xabi alonso,1981-11-25,Milieu,Espagne,14,111,Real Madrid,0
+720,xavi,1980-01-25,Milieu,Espagne,8,132,Barcelona,0
+155,david villa,1981-12-03,Attaquant,Espagne,7,96,Atletico Madrid,0
+164,diego costa,1988-10-07,Attaquant,Espagne,19,2,Atletico Madrid,0
+226,fernando torres,1984-03-20,Attaquant,Espagne,9,107,Chelsea,0
+568,pedro,1987-07-28,,Espagne,11,40,Barcelona,0
+316,jasper cillessen,1989-04-22,Gardien,Pays-Bas,1,8,Ajax,0
+510,michel vorm,1983-10-03,Gardien,Pays-Bas,22,14,Swansea City,0
+681,tim krul,1988-04-03,Gardien,Pays-Bas,23,5,Newcastle United,0
+95,bruno martins indi,1992-02-08,Defenseur,Pays-Bas,4,16,Feyenoord,0
+134,daley blind,1990-03-09,Defenseur,Pays-Bas,5,12,Ajax,0
+150,daryl janmaat,1989-07-22,Defenseur,Pays-Bas,7,16,Feyenoord,0
+340,joel veltman,1992-01-15,Defenseur,Pays-Bas,13,2,Ajax,0
+566,paul verhaegh,1983-09-01,Defenseur,Pays-Bas,12,2,Augsburg,0
+612,ron vlaar,1985-02-16,Defenseur,Pays-Bas,2,24,Aston Villa,0
+658,stefan de vrij,1992-02-05,Defenseur,Pays-Bas,3,12,Feyenoord,0
+672,terence kongolo,1994-02-14,Defenseur,Pays-Bas,14,1,Feyenoord,0
+62,arjen robben,1984-01-23,Milieu,Pays-Bas,11,75,Bayern Munich,0
+244,georginio wijnaldum,1990-11-11,Milieu,Pays-Bas,20,5,PSV,0
+347,jonathan de guzman,1987-09-13,Milieu,Pays-Bas,6,10,Swansea City,0
+352,jordy clasie,1991-06-27,Milieu,Pays-Bas,16,8,Feyenoord,0
+419,leroy fer,1990-01-05,Milieu,Pays-Bas,18,6,Norwich City,0
+499,memphis depay,1994-02-13,Milieu,Pays-Bas,21,6,PSV,0
+535,nigel de jong,1984-11-13,Milieu,Pays-Bas,8,71,Milan,0
+714,wesley sneijder,1984-06-09,Milieu,Pays-Bas,10,99,Galatasaray,0
+171,dirk kuyt,1980-07-22,Attaquant,Pays-Bas,15,98,Fenerbahce,0
+327,jeremain lens,1987-11-24,Attaquant,Pays-Bas,17,22,Dynamo Kyiv,0
+398,klaas-jan huntelaar,1983-08-12,Attaquant,Pays-Bas,19,62,Schalke 4,0
+604,robin van persie,1983-08-06,Attaquant,Pays-Bas,9,85,Manchester United,1
+97,camilo vargas,1989-09-01,Gardien,Colombie,12,0,Santa Fe,0
+153,david ospina,1988-08-31,Gardien,Colombie,1,44,Nice,0
+218,faryd mondragon,1971-06-21,Gardien,Colombie,22,50,Deportivo Cali,0
+106,carlos valdes,1985-05-22,Defenseur,Colombie,23,14,San Lorenzo,0
+131,cristian zapata,1986-09-30,Defenseur,Colombie,2,24,Milan,0
+181,eder alvarez balanta,1993-02-28,Defenseur,Colombie,16,3,River Plate,0
+368,juan camilo zuniga,1985-12-14,Defenseur,Colombie,18,50,Napoli,0
+460,mario yepes,1976-01-13,Defenseur,Colombie,3,98,Atalanta,1
+554,pablo armero,1986-11-02,Defenseur,Colombie,7,53,West Ham United,0
+629,santiago arias,1992-01-13,Defenseur,Colombie,4,6,PSV,0
+2,abel aguilar,1985-01-06,Milieu,Colombie,8,49,Toulouse,0
+20,carlos carbonero,1990-07-25,Milieu,Colombie,5,1,River Plate,0
+32,alexander mejia,1988-09-07,Milieu,Colombie,15,8,Atletico Nacional,0
+105,carlos sanchez,1986-02-06,Milieu,Colombie,6,44,Elche,0
+234,fredy guarin,1986-06-30,Milieu,Colombie,13,49,Internazionale,0
+311,james rodriguez,1991-07-12,Milieu,Colombie,10,22,Monaco,0
+371,juan fernando quintero,1993-01-18,Milieu,Colombie,20,4,Porto,0
+372,juan guillermo cuadrado,1988-05-26,Milieu,Colombie,11,28,Fiorentina,0
+701,victor ibarbo,1990-05-19,Milieu,Colombie,14,9,Cagliari,0
+10,adrian ramos,1986-01-22,Attaquant,Colombie,19,26,Hertha BSC,0
+100,carlos bacca,1986-09-08,Attaquant,Colombie,17,11,Sevilla,0
+306,jackson martinez,1986-10-03,Attaquant,Colombie,21,27,Porto,0
+671,teofilo gutierrez,1985-05-28,Attaquant,Colombie,9,30,River Plate,0
+90,boubacar barry,1979-12-30,Gardien,Cote d'Ivoire,1,79,Lokeren,0
+631,sayouba mande,1993-06-05,Gardien,Cote d'Ivoire,23,1,Stabæk,0
+670,sylvain gbohouo,1988-10-29,Gardien,Cote d'Ivoire,16,1,Sewe Sport,0
+64,arthur boka,1983-04-02,Defenseur,Cote d'Ivoire,3,79,VfB Stuttgart,0
+128,constant djakpa,1986-10-17,Defenseur,Cote d'Ivoire,18,4,Eintracht Frankfurt,0
+161,didier zokora,1980-12-14,Defenseur,Cote d'Ivoire,5,119,Trabzonspor,0
+324,jean-daniel akpa-akpro,1992-10-11,Defenseur,Cote d'Ivoire,7,1,Toulouse,0
+400,kolo toure,1981-03-19,Defenseur,Cote d'Ivoire,4,106,Liverpool,0
+553,ousmane viera,1986-12-21,Defenseur,Cote d'Ivoire,2,3,caykur Rizespor,0
+639,serge aurier,1992-12-24,Defenseur,Cote d'Ivoire,17,8,Toulouse,0
+656,sol bamba,1985-01-13,Defenseur,Cote d'Ivoire,22,43,Trabzonspor,0
+114,cheick tiote,1986-06-21,Milieu,Cote d'Ivoire,9,44,Newcastle United,0
+160,didier ya konan,1984-02-25,Milieu,Cote d'Ivoire,13,25,Hannover 96,0
+298,ismael diomande,1992-08-28,Milieu,Cote d'Ivoire,14,1,Saint-etienne,0
+638,serey die,1984-11-07,Milieu,Cote d'Ivoire,20,6,Basel,0
+726,yaya toure,1983-05-13,Milieu,Cote d'Ivoire,19,83,Manchester City,0
+159,didier drogba,1978-03-11,Attaquant,Cote d'Ivoire,11,100,Galatasaray,1
+246,gervinho,1987-05-27,Attaquant,Cote d'Ivoire,10,53,Roma,0
+257,giovanni sio,1989-03-31,Attaquant,Cote d'Ivoire,21,7,Basel,0
+477,mathis bolly,1990-11-14,Attaquant,Cote d'Ivoire,6,3,Fortuna Düsseldorf,0
+488,max gradel,1987-11-30,Attaquant,Cote d'Ivoire,15,25,Saint-etienne,0
+620,salomon kalou,1985-08-05,Attaquant,Cote d'Ivoire,8,64,Lille,0
+715,wilfried bony,1988-12-10,Attaquant,Cote d'Ivoire,12,24,Swansea City,0
+546,orestis karnezis,1985-07-11,Gardien,Grece,1,19,Granada,0
+556,panagiotis glykos,1986-06-03,Gardien,Grece,12,2,PAOK,0
+659,stefanos kapino,1994-03-18,Gardien,Grece,13,2,Panathinaikos,0
+251,giannis maniatis,1986-10-12,Milieu,Grece,2,30,Olympiacos,0
+255,giorgos tzavellas,1987-11-26,Defenseur,Grece,3,13,PAOK,0
+358,jose holebas,1984-06-27,Defenseur,Grece,20,22,Olympiacos,0
+403,kostas manolas,1991-06-14,Defenseur,Grece,4,9,Olympiacos,0
+425,loukas vyntra,1981-02-05,Defenseur,Grece,11,50,Levante,0
+655,sokratis papastathopoulos,1988-06-09,Defenseur,Grece,19,47,Borussia Dortmund,0
+694,vangelis moras,1981-08-26,Defenseur,Grece,5,19,Verona,0
+696,vasilis torosidis,1985-06-10,Defenseur,Grece,15,66,Roma,0
+33,alexandros tziolis,1985-02-13,Milieu,Grece,6,49,Kayserispor,0
+48,andreas samaris,1989-06-13,Milieu,Grece,22,4,Olympiacos,0
+250,giannis fetfatzidis,1990-12-21,Milieu,Grece,18,19,Genoa,0
+253,giorgos karagounis,1977-03-06,Milieu,Grece,10,135,Fulham,1
+402,kostas katsouranis,1979-06-21,Milieu,Grece,21,111,PAOK,0
+412,lazaros christodoulopoulos,1986-12-19,Milieu,Grece,16,19,Bologna,0
+557,panagiotis kone,1987-07-26,Milieu,Grece,8,16,Bologna,0
+558,panagiotis tachtsidis,1991-02-15,Milieu,Grece,23,6,Torino,0
+170,dimitris salpingidis,1981-08-18,Attaquant,Grece,14,76,PAOK,0
+254,giorgos samaras,1985-02-21,Attaquant,Grece,7,74,Celtic,0
+404,kostas mitroglou,1988-03-12,Attaquant,Grece,9,32,Fulham,0
+673,theofanis gekas,1980-05-23,Attaquant,Grece,17,72,Konyaspor,0
+193,eiji kawashima,1983-03-20,Gardien,Japon,1,56,Standard Liege,0
+649,sh?ichi gonda,1989-03-03,Gardien,Japon,23,2,F.C. Tokyo,0
+650,shusaku nishikawa,1986-06-18,Gardien,Japon,12,12,Urawa Red Diamonds,0
+70,atsuto uchida,1988-03-27,Defenseur,Japon,2,67,Schalke 4,0
+264,g?toku sakai,1991-02-14,Defenseur,Japon,3,12,VfB Stuttgart,0
+282,hiroki sakai,1990-04-12,Defenseur,Japon,21,17,Hannover 96,0
+468,masahiko inoha,1983-08-28,Defenseur,Japon,19,21,Jubilo Iwata,0
+469,masato morishige,1987-05-21,Defenseur,Japon,6,9,F.C. Tokyo,0
+494,maya yoshida,1988-08-24,Defenseur,Japon,22,40,Southampton,0
+725,yasuyuki konno,1983-01-25,Defenseur,Japon,15,80,Gamba Osaka,0
+734,yuto nagatomo,1986-09-12,Defenseur,Japon,5,69,Internazionale,0
+283,hiroshi kiyotake,1989-11-12,Milieu,Japon,8,25,1. FC Nürnberg,0
+286,hotaru yamaguchi,1990-10-06,Milieu,Japon,16,11,Cerezo Osaka,0
+384,keisuke honda,1986-06-13,Milieu,Japon,4,55,Milan,0
+440,makoto hasebe,1984-01-18,Milieu,Japon,17,78,1. FC Nürnberg,1
+646,shinji kagawa,1989-03-17,Milieu,Japon,10,56,Manchester United,0
+688,toshihiro aoyama,1986-02-22,Milieu,Japon,14,5,Sanfrecce Hiroshima,0
+724,yasuhito end?,1980-01-28,Milieu,Japon,7,143,Gamba Osaka,0
+443,manabu sait?,1990-04-04,Attaquant,Japon,20,4,Yokohama F. Marinos,0
+647,shinji okazaki,1986-04-16,Attaquant,Japon,9,75,Mainz 5,0
+729,yoichiro kakitani,1990-01-03,Attaquant,Japon,11,11,Cerezo Osaka,0
+730,yoshito ?kubo,1982-06-09,Attaquant,Japon,13,56,Kawasaki Frontale,0
+735,yuya osako,1990-05-18,Attaquant,Japon,18,8,1860 München,0
+81,ben foster,1983-05-03,Gardien,Angleterre,13,6,West Bromwich Albion,0
+232,fraser forster,1988-03-17,Gardien,Angleterre,22,1,Celtic,0
+337,joe hart,1987-05-19,Gardien,Angleterre,1,40,Manchester City,0
+116,chris smalling,1989-11-22,Defenseur,Angleterre,12,11,Manchester United,0
+238,gary cahill,1985-12-19,Defenseur,Angleterre,5,23,Chelsea,0
+258,glen johnson,1984-08-23,Defenseur,Angleterre,2,51,Liverpool,0
+417,leighton baines,1984-12-11,Defenseur,Angleterre,3,23,Everton,0
+436,luke shaw,1995-07-12,Defenseur,Angleterre,23,1,Southampton,0
+574,phil jagielka,1982-08-17,Defenseur,Angleterre,6,25,Everton,0
+575,phil jones,1992-02-21,Defenseur,Angleterre,16,9,Manchester United,0
+5,adam lallana,1988-05-10,Milieu,Angleterre,20,4,Southampton,0
+28,alex oxlade-chamberlain,1993-08-15,Milieu,Angleterre,15,14,Arsenal,0
+231,frank lampard,1978-06-20,Milieu,Angleterre,8,103,Chelsea,0
+305,jack wilshere,1992-01-01,Milieu,Angleterre,7,16,Arsenal,0
+310,james milner,1986-01-04,Milieu,Angleterre,17,46,Manchester City,0
+350,jordan henderson,1990-06-17,Milieu,Angleterre,14,9,Liverpool,0
+583,raheem sterling,1994-12-08,Milieu,Angleterre,19,3,Liverpool,0
+615,ross barkley,1993-12-05,Milieu,Angleterre,21,4,Everton,0
+667,steven gerrard,1980-05-30,Milieu,Angleterre,4,110,Liverpool,1
+140,daniel sturridge,1989-09-01,Attaquant,Angleterre,9,11,Liverpool,0
+145,danny welbeck,1990-11-26,Attaquant,Angleterre,11,22,Manchester United,0
+601,rickie lambert,1982-02-16,Attaquant,Angleterre,18,4,Southampton,0
+713,wayne rooney,1985-10-24,Attaquant,Angleterre,10,90,Manchester United,0
+137,daniel cambronero,1986-01-08,Gardien,Costa Rica,23,2,Herediano,0
+390,keylor navas,1986-12-15,Gardien,Costa Rica,1,53,Levante,0
+563,patrick pemberton,1982-04-24,Gardien,Costa Rica,18,21,Alajuelense,0
+129,cristian gamboa,1989-10-24,Defenseur,Costa Rica,16,24,Rosenborg,0
+248,giancarlo gonzalez,1988-02-08,Defenseur,Costa Rica,3,34,Columbus Crew,0
+277,heiner mora,1984-06-20,Defenseur,Costa Rica,8,22,Saprissa,0
+345,johnny acosta,1983-07-21,Defenseur,Costa Rica,2,27,Alajuelense,0
+380,junior diaz,1983-09-12,Defenseur,Costa Rica,15,58,Mainz 5,0
+509,michael umana,1982-07-16,Defenseur,Costa Rica,4,79,Saprissa,0
+550,oscar duarte,1989-06-03,Defenseur,Costa Rica,6,11,Club Brugge,0
+616,roy miller,1984-11-24,Defenseur,Costa Rica,19,47,New York Red Bulls,0
+712,waylon francis,1990-09-20,Defenseur,Costa Rica,12,1,Columbus Crew,0
+109,celso borges,1988-05-27,Milieu,Costa Rica,5,63,AIK,0
+119,christian bolanos,1984-05-17,Milieu,Costa Rica,7,55,Copenhagen,0
+163,diego calvo,1991-03-25,Milieu,Costa Rica,20,10,Vålerenga,0
+205,esteban granados,1985-10-25,Milieu,Costa Rica,13,11,Herediano,0
+362,jose miguel cubero,1987-02-14,Milieu,Costa Rica,22,36,Herediano,0
+504,michael barrantes,1983-10-04,Milieu,Costa Rica,11,51,Aalesund,0
+727,yeltsin tejeda,1992-03-17,Milieu,Costa Rica,17,22,Saprissa,0
+96,bryan ruiz,1985-08-18,Attaquant,Costa Rica,10,62,PSV,1
+338,joel campbell,1992-06-26,Attaquant,Costa Rica,9,33,Olympiacos,0
+451,marco urena,1990-03-05,Attaquant,Costa Rica,21,25,Kuban Krasnodar,0
+587,randall brenes,1983-08-13,Attaquant,Costa Rica,14,37,Cartagines,0
+249,gianluigi buffon,1978-01-28,Gardien,Italie,1,139,Juventus,1
+485,mattia perin,1992-11-10,Gardien,Italie,13,0,Genoa,0
+621,salvatore sirigu,1987-01-12,Gardien,Italie,12,8,Paris Saint-Germain,0
+46,andrea barzagli,1981-05-08,Defenseur,Italie,15,47,Juventus,0
+237,gabriel paletta,1986-02-15,Defenseur,Italie,20,2,Parma,0
+252,giorgio chiellini,1984-08-14,Defenseur,Italie,3,67,Juventus,0
+292,ignazio abate,1986-11-12,Defenseur,Italie,7,19,Milan,0
+418,leonardo bonucci,1987-05-01,Defenseur,Italie,19,36,Juventus,0
+481,matteo darmian,1989-12-02,Defenseur,Italie,4,1,Torino,0
+484,mattia de sciglio,1992-10-20,Defenseur,Italie,2,10,Milan,0
+19,alberto aquilani,1984-07-07,Milieu,Italie,14,34,Fiorentina,0
+47,andrea pirlo,1979-05-19,Milieu,Italie,21,108,Juventus,0
+59,antonio candreva,1987-02-28,Milieu,Italie,6,19,Lazio,0
+125,claudio marchisio,1986-01-19,Milieu,Italie,8,43,Juventus,0
+142,daniele de rossi,1983-07-24,Milieu,Italie,16,94,Roma,0
+449,marco parolo,1985-01-25,Milieu,Italie,18,3,Parma,0
+452,marco verratti,1992-11-05,Milieu,Italie,23,5,Paris Saint-Germain,0
+674,thiago motta,1982-08-28,Milieu,Italie,5,20,Paris Saint-Germain,0
+27,alessio cerci,1987-07-23,Attaquant,Italie,11,11,Torino,0
+60,antonio cassano,1982-07-12,Attaquant,Italie,10,36,Parma,0
+123,ciro immobile,1990-02-20,Attaquant,Italie,17,2,Torino,0
+424,lorenzo insigne,1991-06-04,Attaquant,Italie,22,4,Napoli,0
+455,mario balotelli,1990-08-12,Attaquant,Italie,9,29,Milan,0
+225,fernando muslera,1986-06-16,Gardien,Uruguay,1,57,Galatasaray,0
+466,martin silva,1983-03-25,Gardien,Uruguay,23,4,Vasco da Gama,0
+605,rodrigo munoz,1982-01-22,Gardien,Uruguay,12,0,Libertad,0
+166,diego godin,1986-02-16,Defenseur,Uruguay,3,76,Atletico Madrid,0
+167,diego lugano,1980-11-02,Defenseur,Uruguay,2,93,West Bromwich Albion,1
+354,jorge fucile,1984-11-19,Defenseur,Uruguay,13,41,Porto,0
+361,jose maria gimenez,1995-01-20,Defenseur,Uruguay,19,5,Atletico Madrid,0
+464,martin caceres,1987-04-07,Defenseur,Uruguay,22,56,Juventus,0
+489,maxi pereira,1984-06-08,Defenseur,Uruguay,16,89,Benfica,0
+633,sebastian coates,1990-10-07,Defenseur,Uruguay,4,14,Nacional,0
+39,alvaro gonzalez,1984-10-29,Milieu,Uruguay,20,42,Lazio,0
+40,alvaro pereira,1985-11-28,Milieu,Uruguay,6,56,São Paulo,0
+130,cristian rodriguez,1985-09-30,Milieu,Uruguay,7,72,Atletico Madrid,0
+168,diego perez,1980-05-18,Milieu,Uruguay,15,89,Bologna,0
+191,egidio arevalo rios,1982-01-01,Milieu,Uruguay,17,54,Morelia,0
+240,gaston ramirez,1990-12-02,Milieu,Uruguay,18,28,Southampton,0
+532,nicolas lodeiro,1989-03-21,Milieu,Uruguay,14,26,Botafogo,0
+711,walter gargano,1984-07-23,Milieu,Uruguay,5,62,Parma,0
+3,abel hernandez,1990-08-08,Attaquant,Uruguay,8,12,Palermo,0
+121,christian stuani,1986-10-12,Attaquant,Uruguay,11,9,Espanyol,0
+165,diego forlan,1979-05-19,Attaquant,Uruguay,10,109,Cerezo Osaka,0
+185,edinson cavani,1987-02-14,Attaquant,Uruguay,21,61,Paris Saint-Germain,0
+432,luis suarez,1987-01-24,Attaquant,Uruguay,9,77,Liverpool,0
+9,adrian bone,1988-09-08,Gardien,Equateur,12,3,El Nacional,0
+31,alexander dominguez,1987-06-05,Gardien,Equateur,22,18,LDU Quito,0
+492,maximo banguera,1985-12-16,Gardien,Equateur,1,24,Barcelona,0
+235,frickson erazo,1988-05-05,Defenseur,Equateur,3,36,Flamengo,0
+236,gabriel achilier,1985-03-24,Defenseur,Equateur,21,22,Emelec,0
+355,jorge guagua,1981-09-28,Defenseur,Equateur,2,58,Emelec,0
+370,juan carlos paredes,1987-07-08,Defenseur,Equateur,4,37,Barcelona,0
+549,oscar bagüi,1982-12-10,Defenseur,Equateur,18,21,Emelec,0
+710,walter ayovi,1979-08-11,Defenseur,Equateur,10,89,Pachuca,0
+61,antonio valencia,1985-08-04,Milieu,Equateur,16,70,Manchester United,1
+102,carlos gruezo,1995-04-19,Milieu,Equateur,23,2,VfB Stuttgart,0
+120,christian noboa,1985-04-09,Milieu,Equateur,6,41,Dynamo Moscow,0
+186,edison mendez,1979-03-15,Milieu,Equateur,8,109,Santa Fe,0
+227,fidel martinez,1990-02-15,Milieu,Equateur,20,8,Tijuana,0
+326,jefferson montero,1989-09-01,Milieu,Equateur,7,39,Morelia,0
+336,joao rojas,1989-06-14,Milieu,Equateur,9,29,Cruz Azul,0
+431,luis saritama,1983-10-20,Milieu,Equateur,19,48,Barcelona,0
+502,michael arroyo,1987-04-23,Milieu,Equateur,15,20,Atlante,0
+593,renato ibarra,1991-01-20,Milieu,Equateur,5,17,Vitesse,0
+634,segundo castillo,1982-05-15,Milieu,Equateur,14,81,Al-Hilal,0
+200,enner valencia,1989-04-11,Attaquant,Equateur,13,9,Pachuca,0
+221,felipe caicedo,1988-09-05,Attaquant,Equateur,11,49,Al-Jazira,0
+307,jaime ayovi,1988-02-21,Attaquant,Equateur,17,30,Tijuana,0
+289,hugo lloris,1986-12-26,Gardien,France,1,56,Tottenham Hotspur,1
+511,mickael landreau,1979-05-14,Gardien,France,23,11,Bastia,0
+662,stephane ruffier,1986-09-27,,France,16,2,Saint-etienne,0
+77,bacary sagna,1983-02-14,Defenseur,France,15,40,Arsenal,0
+195,eliaquim mangala,1991-02-13,Defenseur,France,13,3,Porto,0
+411,laurent koscielny,1985-09-10,Defenseur,France,21,17,Arsenal,0
+427,lucas digne,1993-07-20,Defenseur,France,17,2,Paris Saint-Germain,0
+442,mamadou sakho,1990-02-13,Defenseur,France,5,18,Liverpool,0
+475,mathieu debuchy,1985-07-28,Defenseur,France,2,20,Newcastle United,0
+562,patrice evra,1981-05-15,Defenseur,France,3,57,Manchester United,0
+588,raphael varane,1993-04-25,,France,4,5,Real Madrid,0
+58,antoine griezmann,1991-03-21,Milieu,France,11,3,Real Sociedad,0
+88,blaise matuidi,1987-04-09,Milieu,France,14,22,Paris Saint-Germain,0
+126,morgan schneiderlin,1989-11-08,Milieu,France,22,1,Southampton,0
+230,remy cabella,1990-03-08,Milieu,France,7,1,Montpellier,0
+476,mathieu valbuena,1984-09-28,Milieu,France,8,33,Marseille,0
+524,moussa sissoko,1989-08-16,Milieu,France,18,16,Newcastle United,0
+565,paul pogba,1993-03-15,Milieu,France,19,10,Juventus,0
+602,rio mavuba,1984-03-08,Milieu,France,12,11,Lille,0
+728,yohan cabaye,1986-01-14,Milieu,France,6,29,Paris Saint-Germain,0
+383,karim benzema,1987-12-19,Attaquant,France,10,65,Real Madrid,0
+423,loec remy,1987-01-02,Attaquant,France,20,24,Newcastle United,0
+544,olivier giroud,1986-09-30,Attaquant,France,9,29,Arsenal,0
+176,donis escober,1980-02-03,Gardien,Honduras,22,26,Olimpia,0
+429,luis lopez,1993-09-13,Gardien,Honduras,1,0,Real Espana,0
+537,noel valladares,1977-05-03,Gardien,Honduras,18,121,Olimpia,1
+93,brayan beckeles,1985-11-28,Defenseur,Honduras,23,22,Olimpia,0
+196,emilio izaguirre,1986-05-10,Defenseur,Honduras,7,67,Celtic,0
+369,juan carlos garcia,1988-03-08,Defenseur,Honduras,6,33,Wigan Athletic,0
+374,juan pablo montes,1985-10-26,Defenseur,Honduras,4,11,Motagua,0
+495,maynor figueroa,1983-05-02,Defenseur,Honduras,3,104,Hull City,0
+552,osman chavez,1984-07-29,Defenseur,Honduras,2,54,Qingdao Jonoon,0
+700,victor bernardez,1982-05-24,Defenseur,Honduras,5,77,San Jose Earthquakes,0
+53,andy najar,1993-03-16,Milieu,Honduras,21,16,Anderlecht,0
+178,edder delgado,1986-11-20,Milieu,Honduras,12,25,Real Espana,0
+353,jorge claros,1986-01-08,Milieu,Honduras,20,48,Motagua,0
+428,luis garrido,1990-11-05,Milieu,Honduras,19,19,Olimpia,0
+459,mario martinez,1989-07-30,Milieu,Honduras,10,35,Real Espana,0
+467,marvin chavez,1983-11-03,Milieu,Honduras,17,41,Chivas USA,0
+551,oscar garcia,1984-09-04,Milieu,Honduras,14,92,Houston Dynamo,0
+607,roger espinoza,1986-10-25,Milieu,Honduras,15,41,Wigan Athletic,0
+718,wilson palacios,1984-07-29,Milieu,Honduras,8,94,Stoke City,0
+99,carlo costly,1982-07-18,Attaquant,Honduras,13,69,Real Espana,0
+330,jerry bengtson,1987-04-08,Attaquant,Honduras,11,43,New Angleterre Revolution,0
+331,jerry palacios,1981-11-01,Attaquant,Honduras,9,23,Alajuelense,0
+614,rony martinez,1988-10-16,Attaquant,Honduras,16,12,Real Sociedad,0
+162,diego benaglio,1983-09-08,Gardien,Suisse,1,56,VfL Wolfsburg,0
+608,roman bürki,1990-11-14,Gardien,Suisse,21,0,Grasshopper,0
+723,yann sommer,1988-12-17,Gardien,Suisse,12,6,Basel,0
+214,fabian schär,1991-12-20,Defenseur,Suisse,22,5,Basel,0
+341,johan djourou,1987-01-18,Defenseur,Suisse,20,44,Hamburger SV,0
+507,michael lang,1991-02-08,Defenseur,Suisse,6,5,Grasshopper,0
+577,philippe senderos,1985-02-14,Defenseur,Suisse,4,53,Valencia,0
+594,reto ziegler,1986-01-16,Defenseur,Suisse,3,35,Sassuolo,0
+600,ricardo rodriguez,1992-08-25,Defenseur,Suisse,13,20,VfL Wolfsburg,0
+660,stephan lichtsteiner,1984-01-16,Defenseur,Suisse,2,62,Juventus,0
+663,steve von bergen,1983-06-10,Defenseur,Suisse,5,40,Young Boys,0
+89,blerim dzemaili,1986-04-12,Milieu,Suisse,15,33,Napoli,0
+241,gelson fernandes,1986-09-02,Milieu,Suisse,16,47,SC Freiburg,0
+260,gökhan inler,1984-06-27,Milieu,Suisse,8,71,Napoli,1
+266,granit xhaka,1992-09-27,Milieu,Suisse,10,25,Borussia Mönchengladbach,0
+689,tranquillo barnetta,1985-05-22,Milieu,Suisse,7,73,Eintracht Frankfurt,0
+692,valentin stocker,1989-04-12,Milieu,Suisse,14,23,Basel,0
+693,valon behrami,1985-04-19,Milieu,Suisse,11,47,Napoli,0
+721,xherdan shaqiri,1991-10-10,Milieu,Suisse,23,32,Bayern Munich,0
+7,admir mehmedi,1991-03-16,Attaquant,Suisse,18,20,SC Freiburg,0
+271,haris seferovic,1992-02-22,Attaquant,Suisse,9,10,Real Sociedad,0
+366,josip drmic,1992-08-08,Attaquant,Suisse,19,6,1. FC Nürnberg,0
+456,mario gavranovic,1989-11-24,Attaquant,Suisse,17,10,Zürich,0
+13,agustin orion,1981-07-26,Gardien,Argentine,12,3,Boca Juniors,0
+454,mariano andujar,1983-07-30,Gardien,Argentine,21,10,Catania,0
+645,sergio romero,1987-02-22,Gardien,Argentine,1,45,Monaco,0
+210,ezequiel garay,1986-10-10,Defenseur,Argentine,2,18,Benfica,0
+220,federico fernandez,1989-02-21,Defenseur,Argentine,17,24,Napoli,0
+288,hugo campagnaro,1980-06-27,Defenseur,Argentine,3,13,Internazionale,0
+360,jose maria basanta,1984-04-03,Defenseur,Argentine,23,8,Monterrey,0
+453,marcos rojo,1990-03-20,Defenseur,Argentine,16,20,Sporting,0
+465,martin demichelis,1980-12-20,Defenseur,Argentine,15,37,Manchester City,0
+555,pablo zabaleta,1985-01-16,Defenseur,Argentine,4,36,Manchester City,0
+55,angel di maria,1988-02-14,Milieu,Argentine,7,45,Real Madrid,0
+71,augusto fernandez,1986-04-10,Milieu,Argentine,13,7,Celta Vigo,0
+201,enzo perez,1986-02-22,Milieu,Argentine,8,5,Benfica,0
+224,fernando gago,1986-04-10,Milieu,Argentine,5,47,Boca Juniors,0
+321,javier mascherano,1984-06-08,Milieu,Argentine,14,96,Barcelona,0
+426,lucas biglia,1986-01-30,Milieu,Argentine,6,16,Lazio,0
+490,maxi rodriguez,1981-01-02,Milieu,Argentine,11,53,Newell's Old Boys,0
+598,ricardo alvarez,1988-04-12,Milieu,Argentine,19,5,Internazionale,0
+211,ezequiel lavezzi,1985-05-03,Attaquant,Argentine,22,29,Paris Saint-Germain,0
+261,gonzalo higuain,1987-12-10,Attaquant,Argentine,9,36,Napoli,0
+421,lionel messi,1987-06-24,Attaquant,Argentine,10,84,Barcelona,1
+606,rodrigo palacio,1982-02-05,Attaquant,Argentine,18,15,Internazionale,0
+642,sergio agüero,1988-06-02,Attaquant,Argentine,20,50,Manchester City,0
+68,asmir avdukic,1981-05-13,Gardien,Bosnie-Herzegovine,22,3,and Herzegovina Borac Banja,0
+69,asmir begovic,1987-06-20,Gardien,Bosnie-Herzegovine,1,30,Stoke City,0
+314,jasmin fejzic,1986-05-15,Gardien,Bosnie-Herzegovine,12,0,VfR Aalen,0
+74,avdija vrsajevic,1986-03-06,Defenseur,Bosnie-Herzegovine,2,13,Hajduk Split,0
+197,emir spahic,1980-08-18,Defenseur,Bosnie-Herzegovine,4,74,Bayer Leverkusen,1
+203,ermin bicakcic,1990-01-24,Defenseur,Bosnie-Herzegovine,3,7,Eintracht Braunschweig,0
+500,mensur mujdza,1984-03-28,Defenseur,Bosnie-Herzegovine,13,24,SC Freiburg,0
+525,muhamed besic,1992-09-10,Defenseur,Bosnie-Herzegovine,7,9,Ferencvaros,0
+539,ognjen vranjes,1989-10-24,Defenseur,Bosnie-Herzegovine,6,13,Elaz??spor,0
+632,sead kolasinac,1993-06-20,Defenseur,Bosnie-Herzegovine,5,4,Schalke 4,0
+687,toni sunjic,1988-12-15,Defenseur,Bosnie-Herzegovine,15,7,Zorya Luhansk,0
+54,anel hadzic,1989-08-16,Milieu,Bosnie-Herzegovine,20,2,Sturm Graz,0
+270,haris medunjanin,1985-03-08,Milieu,Bosnie-Herzegovine,18,35,Gaziantepspor,0
+304,izet hajrovic,1991-08-04,Milieu,Bosnie-Herzegovine,14,7,Galatasaray,0
+518,miralem pjanic,1990-04-02,Milieu,Bosnie-Herzegovine,8,48,Roma,0
+635,sejad salihovic,1984-10-08,Milieu,Bosnie-Herzegovine,23,42,1899 Hoffenheim,0
+636,senad lulic,1986-01-18,Milieu,Bosnie-Herzegovine,16,33,Lazio,0
+637,senijad ibricic,1985-09-26,Milieu,Bosnie-Herzegovine,17,42,Kayseri Erciyesspor,0
+683,tino-sven susic,1992-02-13,Milieu,Bosnie-Herzegovine,21,2,Hajduk Split,0
+736,zvjezdan misimovic,1982-06-05,Milieu,Bosnie-Herzegovine,10,82,Guizhou Renhe,0
+183,edin dzeko,1986-03-17,Attaquant,Bosnie-Herzegovine,11,62,Manchester City,0
+184,edin visca,1990-02-17,Attaquant,Bosnie-Herzegovine,19,10,Istanbul BB,0
+697,vedad ibisevic,1984-08-06,Attaquant,Bosnie-Herzegovine,9,55,VfB Stuttgart,0
+36,alireza haghighi,1988-05-02,Gardien,Iran,12,5,Sporting Covilhã,0
+138,daniel davari,1988-01-06,Gardien,Iran,22,4,Eintracht Braunschweig,0
+584,rahman ahmadi,1980-07-30,Gardien,Iran,1,10,Sepahan,0
+14,ahmad alnameh,1982-10-10,Defenseur,Iran,17,9,Naft Tehran,0
+41,amir hossein sadeghi,1981-09-06,Defenseur,Iran,5,16,Esteghlal,0
+273,hashem beikzadeh,1984-01-22,Defenseur,Iran,19,17,Esteghlal,0
+285,hossein mahini,1986-09-16,Defenseur,Iran,13,21,Persepolis,0
+308,jalal hosseini,1982-02-03,Defenseur,Iran,4,84,Persepolis,0
+498,mehrdad pouladi,1987-02-26,Defenseur,Iran,23,19,Persepolis,0
+569,pejman montazeri,1983-09-06,Defenseur,Iran,15,21,Umm Salal,0
+665,steven beitashour,1987-02-01,Defenseur,Iran,20,6,Vancouver Whitecaps,0
+42,andranik teymourian,1983-03-06,Milieu,Iran,14,78,Esteghlal,0
+67,ashkan dejagah,1986-07-05,Milieu,Iran,21,13,Fulham,0
+79,bakhtiar rahmani,1991-09-23,Milieu,Iran,18,4,Foolad,0
+192,ehsan hajsafi,1990-02-25,Milieu,Iran,3,61,Sepahan,0
+247,ghasem haddadifar,1983-07-12,Milieu,Iran,11,16,Zob Ahan,0
+317,javad nekounam,1980-10-07,Milieu,Iran,6,139,Al-Kuwait,1
+391,khosro heydari,1983-09-14,Milieu,Iran,2,48,Esteghlal,0
+470,masoud shojaei,1984-06-09,Milieu,Iran,7,49,Las Palmas,0
+597,reza haghighi,1989-02-01,Milieu,Iran,8,7,Persepolis,0
+37,alireza jahanbakhsh,1993-08-11,Attaquant,Iran,9,6,NEC,0
+382,karim ansarifard,1990-04-03,Attaquant,Iran,10,41,Tractor Sazi,0
+596,reza ghoochannejhad,1987-09-20,Attaquant,Iran,16,13,Charlton Athletic,0
+73,austin ejide,1984-04-08,Gardien,Nigeria,16,32,Hapoel Be'er Sheva,0
+115,chigozie agbim,1984-11-28,Gardien,Nigeria,21,11,Gombe United,0
+706,vincent enyeama,1982-08-29,Gardien,Nigeria,1,90,Lille,1
+76,azubuike egwuekwe,1989-07-16,Defenseur,Nigeria,6,32,Warri Wolves,0
+190,efe ambrose,1988-10-18,Defenseur,Nigeria,5,36,Celtic,0
+259,go2. defenseurrey oboabona,1990-08-16,Defenseur,Nigeria,14,35,caykur Rizespor,0
+365,joseph yobo,1980-09-06,Defenseur,Nigeria,2,96,Norwich City,0
+381,juwon oshaniwa,1990-09-14,Defenseur,Nigeria,13,10,Ashdod,0
+385,kenneth omeruo,1993-10-17,Defenseur,Nigeria,22,17,Middlesbrough,0
+405,kunle odunlami,1990-03-05,Defenseur,Nigeria,12,10,Sunshine Stars,0
+691,uwa elderson echiejile,1988-01-20,Defenseur,Nigeria,3,42,Monaco,0
+344,john obi mikel,1987-04-22,Milieu,Nigeria,10,59,Chelsea,0
+503,michael babatunde,1992-12-24,Milieu,Nigeria,18,4,Volyn Lutsk,0
+538,ogenyi onazi,1992-12-25,Milieu,Nigeria,17,20,Lazio,0
+586,ramon azeez,1992-12-12,Milieu,Nigeria,15,1,Almeria,0
+595,reuben gabriel,1990-09-25,Milieu,Nigeria,4,11,Waasland-Beveren,0
+702,victor moses,1990-12-12,Milieu,Nigeria,11,20,Liverpool,0
+15,ahmed musa,1992-10-14,Attaquant,Nigeria,7,35,CSKA Moscow,0
+199,emmanuel emenike,1987-05-10,Attaquant,Nigeria,9,22,Fenerbahce,0
+508,michael uchebo,1990-02-02,Attaquant,Nigeria,20,3,Cercle Brugge,0
+573,peter odemwingie,1981-07-15,Attaquant,Nigeria,8,60,Stoke City,0
+648,shola ameobi,1981-10-12,Attaquant,Nigeria,23,6,Newcastle United,0
+690,uche nwofor,1991-09-17,Attaquant,Nigeria,19,6,Heerenveen,0
+444,manuel neuer,1986-03-27,Gardien,Allemagne,1,45,Bayern Munich,0
+610,roman weidenfeller,1980-08-06,Gardien,Allemagne,22,2,Borussia Dortmund,0
+613,ron-robert zieler,1989-02-12,Gardien,Allemagne,12,3,Hannover 96,0
+83,benedikt höwedes,1988-02-29,Defenseur,Allemagne,4,20,Schalke 4,0
+202,erik durm,1992-05-12,Defenseur,Allemagne,15,1,Borussia Dortmund,0
+329,jerôme boateng,1988-09-03,Defenseur,Allemagne,20,38,Bayern Munich,0
+387,kevin großkreutz,1988-07-19,Defenseur,Allemagne,2,4,Borussia Dortmund,0
+478,mats hummels,1988-12-16,Defenseur,Allemagne,5,29,Borussia Dortmund,0
+572,per mertesacker,1984-09-29,Defenseur,Allemagne,17,97,Arsenal,0
+576,philipp lahm,1983-11-11,Defenseur,Allemagne,16,105,Bayern Munich,1
+45,andre schürrle,1990-11-06,Milieu,Allemagne,9,32,Chelsea,0
+80,bastian schweinsteiger,1984-08-01,Milieu,Allemagne,7,101,Bayern Munich,0
+122,christoph kramer,1991-02-12,Milieu,Allemagne,23,2,Borussia Mönchengladbach,0
+376,julian draxler,1993-09-20,Milieu,Allemagne,14,11,Schalke 4,0
+457,mario götze,1992-06-03,Milieu,Allemagne,19,28,Bayern Munich,0
+483,matthias ginter,1994-01-19,Milieu,Allemagne,3,2,SC Freiburg,0
+501,mesut özil,1988-10-15,,Allemagne,8,54,Arsenal,0
+622,sami khedira,1987-04-04,Milieu,Allemagne,6,45,Real Madrid,0
+677,thomas müller,1989-09-13,Milieu,Allemagne,13,48,Bayern Munich,0
+686,toni kroos,1990-01-04,Milieu,Allemagne,18,43,Bayern Munich,0
+435,lukas podolski,1985-06-04,Attaquant,Allemagne,10,113,Arsenal,0
+519,miroslav klose,1978-06-09,Attaquant,Allemagne,11,131,Lazio,0
+450,shkodran mustafi,1992-04-17,Defenseur,Allemagne,21,1,Sampdoria,0
+92,brad guzan,1984-09-09,Gardien,Etats-Unis,12,25,Aston Villa,0
+531,nick rimando,1979-06-17,Gardien,Etats-Unis,22,14,Real Salt Lake,0
+680,tim howard,1979-03-06,Gardien,Etats-Unis,1,99,Everton,0
+135,damarcus beasley,1982-05-24,Defenseur,Etats-Unis,7,115,Puebla,0
+156,deandre yedlin,1993-07-09,Defenseur,Etats-Unis,2,4,Seattle Sounders FC,0
+212,fabian johnson,1987-12-11,Defenseur,Etats-Unis,23,21,1899 Hoffenheim,0
+242,geoff cameron,1985-07-11,Defenseur,Etats-Unis,20,26,Stoke City,0
+343,john brooks,1993-01-28,Defenseur,Etats-Unis,6,4,Hertha BSC,0
+479,matt besler,1987-02-11,Defenseur,Etats-Unis,5,16,Sporting Kansas City,0
+545,omar gonzalez,1988-10-11,Defenseur,Etats-Unis,3,19,Los Angeles Galaxy,0
+682,timothy chandler,1990-03-29,Defenseur,Etats-Unis,21,12,1. FC Nürnberg,0
+21,alejandro bedoya,1987-04-29,Milieu,Etats-Unis,11,27,Nantes,0
+91,brad davis,1981-11-08,Milieu,Etats-Unis,14,16,Houston Dynamo,0
+265,graham zusi,1986-08-18,Milieu,Etats-Unis,19,22,Sporting Kansas City,0
+328,jermaine jones,1981-11-03,Milieu,Etats-Unis,13,41,Besiktas,0
+377,julian green,1995-06-06,Milieu,Etats-Unis,16,2,Bayern Munich,0
+408,kyle beckerman,1982-04-23,Milieu,Etats-Unis,15,36,Real Salt Lake,0
+505,michael bradley,1987-07-31,Milieu,Etats-Unis,4,85,Toronto FC,0
+516,mikkel diskerud,1990-10-02,Milieu,Etats-Unis,10,19,Rosenborg,0
+63,aron johannsson,1990-11-10,Attaquant,Etats-Unis,9,8,AZ,0
+117,chris wondolowski,1983-01-28,Attaquant,Etats-Unis,18,20,San Jose Earthquakes,0
+127,clint dempsey,1983-03-09,Attaquant,Etats-Unis,8,104,Seattle Sounders FC,1
+367,jozy altidore,1989-11-06,Attaquant,Etats-Unis,17,69,Sunderland,0
+4,adam kwarasey,1987-12-12,Gardien,Ghana,12,21,Strømsgodset,0
+219,fatau dauda,1985-04-06,Gardien,Ghana,16,17,Orlando Pirates,0
+664,steven adams,1989-09-28,Gardien,Ghana,1,7,Aduana Stars,0
+139,daniel opare,1990-10-18,Defenseur,Ghana,4,16,Standard Liege,0
+272,harrison afful,1986-06-24,Defenseur,Ghana,23,40,Esperance,0
+342,john boye,1987-04-23,Defenseur,Ghana,21,29,Rennes,0
+348,jonathan mensah,1990-07-13,Defenseur,Ghana,19,26,evian,0
+589,rashid sumaila,1992-12-18,Defenseur,Ghana,15,6,Mamelodi Sundowns,0
+627,samuel inkoom,1989-06-01,Defenseur,Ghana,2,46,Platanias,0
+12,acquah afriyie,1992-01-05,Milieu,Ghana,6,4,Parma,0
+18,albert adomah,1987-12-13,Milieu,Ghana,14,14,Middlesbrough,0
+44,andre ayew,1989-12-17,Milieu,Ghana,10,48,Marseille,0
+118,christian atsu,1992-01-10,Milieu,Ghana,7,22,Vitesse,0
+198,emmanuel agyemang-badu,1990-12-02,Milieu,Ghana,8,48,Udinese,0
+406,kwadwo asamoah,1988-12-09,Milieu,Ghana,20,61,Juventus,0
+506,michael essien,1982-12-03,Milieu,Ghana,5,57,Milan,0
+522,mohammed rabiu,1989-12-31,Milieu,Ghana,17,16,Kuban Krasnodar,0
+669,sulley muntari,1984-08-27,Milieu,Ghana,11,81,Milan,0
+709,wakaso mubarak,1990-07-25,Milieu,Ghana,22,16,Rubin Kazan,0
+66,asamoah gyan,1985-11-22,Attaquant,Ghana,3,78,Al-Ain,1
+349,jordan ayew,1991-09-11,Attaquant,Ghana,13,12,Sochaux,0
+389,kevin-prince boateng,1987-03-06,Attaquant,Ghana,9,12,Schalke 4,0
+439,majeed waris,1991-09-19,Attaquant,Ghana,18,9,Valenciennes,0
+87,beto,1982-05-01,Gardien,Portugal,22,7,Sevilla,0
+188,eduardo,1982-09-19,Gardien,Portugal,1,33,Braga,0
+618,rui patricio,1988-02-15,Gardien,Portugal,12,29,Sporting,0
+43,andre almeida,1990-09-10,Defenseur,Portugal,19,3,Benfica,0
+94,bruno alves,1981-11-27,Defenseur,Portugal,2,71,Fenerbahce,0
+215,fabio coentrão,1988-03-11,Defenseur,Portugal,5,43,Real Madrid,0
+335,joão pereira,1984-02-25,Defenseur,Portugal,21,35,Valencia,0
+430,luis neto,1988-05-26,Defenseur,Portugal,14,7,Zenit Saint Petersburg,0
+570,pepe,1983-02-26,Defenseur,Portugal,3,57,Real Madrid,0
+599,ricardo costa,1981-05-16,Defenseur,Portugal,13,18,Valencia,0
+334,joão moutinho,1986-09-08,Milieu,Portugal,8,66,Monaco,0
+514,miguel veloso,1986-05-11,Milieu,Portugal,4,47,Dynamo Kyiv,0
+529,nani,1986-11-17,Milieu,Portugal,17,73,Manchester United,0
+580,rafa silva,1993-05-17,Milieu,Portugal,15,2,Braga,0
+592,raul meireles,1983-03-17,Milieu,Portugal,16,73,Fenerbahce,0
+617,ruben amorim,1985-01-27,Milieu,Portugal,20,11,Benfica,0
+651,silvestre varela,1985-02-02,Milieu,Portugal,18,22,Porto,0
+703,vieirinha,1986-01-24,Milieu,Portugal,10,7,VfL Wolfsburg,0
+716,william carvalho,1992-04-07,Milieu,Portugal,6,3,Sporting,0
+132,cristiano ronaldo,1985-02-05,Attaquant,Portugal,7,110,Real Madrid,1
+180,eder,1987-12-22,Attaquant,Portugal,11,7,Braga,0
+278,helder postiga,1982-08-02,Attaquant,Portugal,23,67,Lazio,0
+287,hugo almeida,1984-05-23,Attaquant,Portugal,9,54,Besiktas,0
+108,cedric si mohamed,1985-01-09,Gardien,Algerie,1,1,CS Constantine,0
+521,mohamed zemmamouche,1985-03-19,Gardien,Algerie,16,7,USM Alger,0
+579,raes m'bolhi,1986-04-25,Gardien,Algerie,23,27,CSKA Sofia,0
+11,aissa mandi,1991-10-22,Defenseur,Algerie,20,2,Reims,0
+98,carl medjani,1985-05-15,Defenseur,Algerie,7,25,Valenciennes,0
+173,djamel mesbah,1984-10-09,Defenseur,Algerie,6,26,Livorno,0
+204,essaed belkalem,1989-01-01,Defenseur,Algerie,4,13,Watford,0
+217,faouzi ghoulam,1991-02-01,Defenseur,Algerie,3,5,Napoli,0
+420,liassine cadamuro-bentaeba,1988-03-05,Defenseur,Algerie,17,6,Mallorca,0
+437,madjid bougherra,1982-10-07,Defenseur,Algerie,2,61,Lekhwiya,1
+582,rafik halliche,1986-09-02,Defenseur,Algerie,5,28,Academica,0
+1,abdelmoumene djabou,1987-01-31,Milieu,Algerie,18,76,Club Africain,0
+274,hassan yebda,1984-05-14,Milieu,Algerie,8,24,Udinese,0
+496,medhi lacen,1984-05-15,Milieu,Algerie,12,29,Getafe,0
+497,mehdi mostefa,1983-08-30,Milieu,Algerie,22,22,Ajaccio,0
+526,nabil bentaleb,1994-11-24,Milieu,Algerie,14,2,Tottenham Hotspur,0
+603,riyad mahrez,1991-02-21,Milieu,Algerie,21,1,Leicester City,0
+630,saphir taeder,1992-02-29,Milieu,Algerie,19,10,Internazionale,0
+654,sofiane feghouli,1989-12-26,Milieu,Algerie,10,18,Valencia,0
+722,yacine brahimi,1990-02-08,Milieu,Algerie,11,5,Granada,0
+194,el arbi hillel soudani,1987-11-25,Attaquant,Algerie,15,21,Dinamo Zagreb,0
+297,islam slimani,1988-06-18,Attaquant,Algerie,13,19,Sporting CP,0
+527,nabil ghilas,1990-04-20,Attaquant,Algerie,9,5,Porto,0
+624,sammy bossut,1985-08-11,Gardien,Belgique,13,1,Zulte Waregem,0
+653,simon mignolet,1988-08-06,Gardien,Belgique,12,14,Liverpool,0
+676,thibaut courtois,1992-05-11,Gardien,Belgique,1,16,Atletico Madrid,0
+57,anthony vanden borre,1987-10-24,Defenseur,Belgique,21,25,Anderlecht,0
+141,daniel van buyten,1978-02-07,Defenseur,Belgique,15,79,Bayern Munich,0
+313,jan vertonghen,1987-04-24,Defenseur,Belgique,5,56,Tottenham Hotspur,0
+410,laurent ciman,1985-08-05,Defenseur,Belgique,23,8,Standard Liege,0
+533,nicolas lombaerts,1985-03-20,Defenseur,Belgique,18,26,Zenit Saint Petersburg,0
+678,thomas vermaelen,1985-11-14,Defenseur,Belgique,3,48,Arsenal,0
+684,toby alderweireld,1989-03-02,Defenseur,Belgique,2,34,Atletico Madrid,0
+707,vincent kompany,1986-04-10,Defenseur,Belgique,4,59,Manchester City,1
+8,adnan januzaj,1995-02-05,Milieu,Belgique,20,1,Manchester United,0
+75,axel witsel,1989-01-12,Milieu,Belgique,6,48,Zenit Saint Petersburg,0
+179,eden hazard,1991-01-07,Milieu,Belgique,10,45,Chelsea,0
+386,kevin de bruyne,1991-06-28,Milieu,Belgique,7,22,VfL Wolfsburg,0
+388,kevin mirallas,1987-10-05,Milieu,Belgique,11,44,Everton,0
+463,marouane fellaini,1987-11-22,Milieu,Belgique,8,50,Manchester United,0
+523,mousa dembele,1987-07-16,Milieu,Belgique,19,55,Tottenham Hotspur,0
+528,nacer chadli,1989-10-02,Milieu,Belgique,22,20,Tottenham Hotspur,0
+666,steven defour,1988-04-15,Milieu,Belgique,16,43,Porto,0
+172,divock origi,1995-04-18,Attaquant,Belgique,17,2,Lille,0
+177,dries mertens,1987-05-06,Attaquant,Belgique,14,24,Napoli,0
+611,romelu lukaku,1993-05-13,Attaquant,Belgique,9,29,Everton,0
+379,jung sung-ryong,1985-01-04,Gardien,Coree du Sud,1,60,Suwon Bluewings,0
+395,kim seung-gyu,1990-09-30,Gardien,Coree du Sud,21,5,Ulsan Hyundai,0
+413,lee bum-young,1989-04-02,Gardien,Coree du Sud,23,0,Busan I'Park,0
+284,hong jeong-ho,1989-08-12,Defenseur,Coree du Sud,20,24,FC Augsburg,0
+291,hwang seok-ho,1989-06-27,Defenseur,Coree du Sud,6,3,Sanfrecce Hiroshima,0
+394,kim chang-soo,1985-09-12,Defenseur,Coree du Sud,2,8,Kashiwa Reysol,0
+397,kim young-gwon,1990-02-27,Defenseur,Coree du Sud,5,20,Guangzhou Evergrande,0
+407,kwak tae-hwi,1981-07-08,Defenseur,Coree du Sud,4,34,Al-Hilal,0
+416,lee yong,1986-12-24,Defenseur,Coree du Sud,12,11,Ulsan Hyundai,0
+561,park joo-ho,1987-01-16,Defenseur,Coree du Sud,22,13,Mainz 5,0
+731,yun suk-young,1990-02-13,Defenseur,Coree du Sud,3,3,Queens Park Rangers,0
+268,ha dae-sung,1985-03-02,Milieu,Coree du Sud,8,13,Beijing Guoan,0
+269,han kook-young,1990-04-19,Milieu,Coree du Sud,14,9,Kashiwa Reysol,0
+392,ki sung-yueng,1989-01-24,Milieu,Coree du Sud,16,58,Sunderland,0
+393,kim bo-kyung,1989-10-06,Milieu,Coree du Sud,7,27,Cardiff City,0
+401,koo ja-cheol,1989-02-27,Milieu,Coree du Sud,13,36,Mainz 5,1
+414,lee chung-yong,1988-07-02,Milieu,Coree du Sud,17,54,Bolton Wanderers,0
+560,park jong-woo,1989-03-10,Milieu,Coree du Sud,15,10,Guangzhou R&F,0
+332,ji dong-won,1991-05-28,Attaquant,Coree du Sud,19,27,FC Augsburg,0
+396,kim shin-wook,1988-04-14,Attaquant,Coree du Sud,18,26,Ulsan Hyundai,0
+415,lee keun-ho,1985-04-11,Attaquant,Coree du Sud,11,63,Sangju Sangmu,0
+559,park chu-young,1985-07-10,Attaquant,Coree du Sud,10,63,Watford,0
+657,son heung-min,1992-07-08,Attaquant,Coree du Sud,9,24,Bayer Leverkusen,0
+293,igor akinfeev,1986-04-08,Gardien,Russie,1,67,CSKA Moscow,0
+641,sergey ryzhikov,1980-09-19,Gardien,Russie,16,1,Rubin Kazan,0
+732,yuri lodygin,1990-05-26,Gardien,Russie,12,2,Zenit Saint Petersburg,0
+26,aleksei kozlov,1986-11-16,Defenseur,Russie,2,10,Dynamo Moscow,0
+49,andrei semyonov,1989-03-24,Defenseur,Russie,6,1,Terek Grozny,0
+52,andrey yeshchenko,1984-02-09,Defenseur,Russie,22,11,Anzhi Makhachkala,0
+174,dmitri kombarov,1987-01-22,Defenseur,Russie,23,21,Spartak Moscow,0
+243,georgi shchennikov,1991-04-27,Defenseur,Russie,3,3,CSKA Moscow,0
+640,sergei ignashevich,1979-07-14,Defenseur,Russie,4,95,CSKA Moscow,0
+695,vasili berezutski,1982-06-20,Defenseur,Russie,14,77,CSKA Moscow,0
+708,vladimir granat,1987-05-22,Defenseur,Russie,13,4,Dynamo Moscow,0
+16,alan dzagoev,1990-06-17,Milieu,Russie,10,31,CSKA Moscow,0
+158,denis glushakov,1987-01-27,Milieu,Russie,8,26,Spartak Moscow,0
+294,igor denisov,1984-05-17,Milieu,Russie,7,42,Dynamo Moscow,0
+541,oleg shatov,1990-07-29,Milieu,Russie,17,6,Zenit Saint Petersburg,0
+609,pavel mogilevets,1993-01-25,Milieu,Russie,15,1,Rubin Kazan,0
+704,viktor fayzulin,1986-04-22,Milieu,Russie,20,18,Zenit Saint Petersburg,0
+22,aleksandr kerzhakov,1982-11-27,Attaquant,Russie,11,79,Zenit Saint Petersburg,0
+23,aleksandr kokorin,1991-03-19,Attaquant,Russie,9,20,Dynamo Moscow,0
+24,aleksandr samedov,1984-07-19,Attaquant,Russie,19,16,Lokomotiv Moscow,0
+25,aleksei ionov,1989-02-18,Attaquant,Russie,18,5,Dynamo Moscow,0
+441,maksim kanunnikov,1991-07-14,Attaquant,Russie,21,2,Rubin Kazan,0
+733,yuri zhirkov,1983-08-20,Attaquant,Russie,5,59,Dynamo Moscow,0
